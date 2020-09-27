@@ -1,0 +1,3 @@
+The data I am using to train this model is an excel file with about 180,000 lines of data. The data contains roughly 47 attributes surrounding weather conditions,
+number of vehicles involved, traffic conditions, and severity which is the metric surrounding how bad an accident is. This severity column is what we are 
+attempting to predict, thus, this is now a supervised learning problem.
