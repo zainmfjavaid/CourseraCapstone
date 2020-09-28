@@ -1,3 +1,0 @@
-The purpose of this project is to be able to predict car accident severity based on a number of conditions specified with a dataset of accidents. 
-The goal of the project is to be able to input a number of weather and traffic conditions into the model and have an output of how bad an accident is 
-likely to be on that specific day. This project could easily help with car accident previntion although it has a wide variety of use cases beyond this.
